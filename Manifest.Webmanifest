@@ -1,0 +1,10 @@
+{
+  "name": "Visite sécurité Boncolac",
+  "short_name": "Visite sécurité",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1976d2",
+  "icons": []
+}
